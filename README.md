@@ -1,5 +1,3 @@
-# Grove
-
 <p align="center">
     <a href="https://discord.gg/DThgbba" target="_blank">
         <img src="https://discordapp.com/api/guilds/408718485913468928/widget.png?style=banner3">
